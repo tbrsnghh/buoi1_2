@@ -1,4 +1,5 @@
 import React, {useState} from "react"
+import '../css/style.css'
 export default function Hook1() {
     const [name, setName] = useState("")
     return(
